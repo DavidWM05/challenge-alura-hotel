@@ -18,7 +18,6 @@
 ## 🚧 Proyecto
 
 #### 🔹 Menu Principal
-
-1 - ![vista general](/imagenes/menuPrincipal.png)
-<img src="imagenes/menuPrincipal.png" alt="Menu Principal" width="300" height="200">
-
+<p align="center" >
+     <img width="600" heigth="600" src="imagenes/menuPrincipal.png" alt="Menu Principal" width="300" height="200">
+</p>
