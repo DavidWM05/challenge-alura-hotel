@@ -18,6 +18,9 @@
 ## 🚧 Proyecto
 
 #### 🔹 Menu Principal
-<p align="center" >
-     <img width="600" heigth="600" src="imagenes/menuPrincipal.png" alt="Menu Principal">
-</p>
+
+<img width="600" heigth="600" src="imagenes/menuPrincipal.png" alt="Menu Principal">
+
+#### 🔹 Login
+
+<img width="600" heigth="600" src="imagenes/login.png" alt="Login">
