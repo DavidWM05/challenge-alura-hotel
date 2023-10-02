@@ -24,3 +24,26 @@
 #### 🔹 Login
 
 <img width="600" heigth="600" src="imagenes/login.png" alt="Login">
+
+#### 🔹 Munu Usuario
+
+<img width="600" heigth="600" src="imagenes/menuUsuario.png" alt="Login">
+
+#### 🔹 Registro Reserva
+
+<img width="600" heigth="600" src="imagenes/registroReserva.png" alt="Login">
+
+#### 🔹 Registro Huesped
+
+<img width="600" heigth="600" src="imagenes/registrohuesped.png" alt="Login">
+
+#### 🔹 Busqueda Reserva
+
+<img width="600" heigth="600" src="imagenes/busquedaReserva.png" alt="Login">
+
+#### 🔹 Busqueda Huesped
+
+<img width="600" heigth="600" src="imagenes/busquedaHuesped.png" alt="Login">
+
+
+
