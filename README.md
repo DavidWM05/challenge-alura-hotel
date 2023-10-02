@@ -16,6 +16,11 @@
 
 ---
 ## 🚧 Proyecto
+### 📊 Base de Datos
+
+<img width="600" heigth="600" src="imagenes/baseDatos.png" alt="Base de Datos">
+
+### 🖥 Vistas
 
 #### 🔹 Menu Principal
 
@@ -27,23 +32,23 @@
 
 #### 🔹 Munu Usuario
 
-<img width="600" heigth="600" src="imagenes/menuUsuario.png" alt="Login">
+<img width="600" heigth="600" src="imagenes/menuUsuario.png" alt="Menu Usuario">
 
 #### 🔹 Registro Reserva
 
-<img width="600" heigth="600" src="imagenes/registroReserva.png" alt="Login">
+<img width="600" heigth="600" src="imagenes/registroReserva.png" alt="Registro Reserva">
 
 #### 🔹 Registro Huesped
 
-<img width="600" heigth="600" src="imagenes/registrohuesped.png" alt="Login">
+<img width="600" heigth="600" src="imagenes/registroHuesped.png" alt="Registro Huesped">
 
 #### 🔹 Busqueda Reserva
 
-<img width="600" heigth="600" src="imagenes/busquedaReserva.png" alt="Login">
+<img width="600" heigth="600" src="imagenes/busquedaReserva.png" alt="Busqueda Reserva">
 
 #### 🔹 Busqueda Huesped
 
-<img width="600" heigth="600" src="imagenes/busquedaHuesped.png" alt="Login">
+<img width="600" heigth="600" src="imagenes/busquedaHuesped.png" alt="Busqueda Huesped">
 
 
 
