@@ -5,6 +5,11 @@
 </p>
 
 ---
+## 📄 Descripcion:
+
+Es la misma ruta descrita para importar el <strong>JCalendar</strong>, haga clic con el botón derecho en el proyecto, <em>Build Path</em>, <em>Configure Build Path</em>, <em>Libraries</em>, <em>Add External JARs</em>. Para encontrar la ruta de este archivo <strong>.jar</strong>, ve al disco duro de tu computadora e ingresa a la carpeta  <em>Archivos de Programas (x86)</em>.
+
+---
 ## 🖥️ Tecnologías Utilizadas:
 
 - Java
