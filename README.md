@@ -19,5 +19,5 @@
 
 #### 🔹 Menu Principal
 <p align="center" >
-     <img width="600" heigth="600" src="imagenes/menuPrincipal.png" alt="Menu Principal" width="300" height="200">
+     <img width="600" heigth="600" src="imagenes/menuPrincipal.png" alt="Menu Principal">
 </p>
