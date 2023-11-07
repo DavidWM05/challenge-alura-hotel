@@ -30,7 +30,7 @@
 ## 🚧 Proyecto
 ### 📊 Base de Datos
 
-<img width="600" heigth="600" src="imagenes/baseDatos.png" alt="Base de Datos">
+<img width="600" heigth="600" src="img/db_distributed.png" alt="Base de Datos">
 
 ### 🖥 Vistas
 
